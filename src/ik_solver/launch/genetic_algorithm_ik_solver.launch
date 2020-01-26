@@ -1,0 +1,3 @@
+<launch>
+    <node name="ik_solver" pkg="ik_solver" type="ga_ik_solver_node.py" output="screen"/>
+</launch>
